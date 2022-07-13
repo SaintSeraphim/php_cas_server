@@ -9,7 +9,6 @@
         "laravel/framework": "^9.19",
         "saint_seraphim/laravel_cas_server": "dev-master",
 	"saint_seraphim/php_cas_server_oauth_plugin_center": "dev-master",
-	"fideloper/proxy": "^4.4",
         "arvenil/ninja-mutex": "^0.5.1"
     },
     "require-dev": {
