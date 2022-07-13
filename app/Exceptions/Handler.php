@@ -2,6 +2,7 @@
 
 namespace App\Exceptions;
 
+use Throwable;
 use Exception;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Validation\ValidationException;
@@ -34,10 +35,10 @@ class Handler extends ExceptionHandler
      *
      * This is a great spot to send exceptions to Sentry, Bugsnag, etc.
      *
-     * @param  \Exception $e
+     * @param  \Throwable $e
      * @return void
      */
-    public function report(Exception $e)
+    public function report(Throwable $e)
     {
         parent::report($e);
     }
