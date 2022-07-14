@@ -6,16 +6,16 @@
   },
   "devDependencies": {
     "bootbox": "^4.4.0",
-    "bootstrap-sass": "^3.3.7",
-    "font-awesome": "^4.6.3",
-    "glob": "^7.0.6",
-    "gulp": "^3.9.1",
-    "jquery": "^3.1.0",
-    "laravel-elixir": "^5.0.0",
-    "lodash": "^4.16.0",
-    "metismenu": "^2.5.2",
-    "vue": "^1.0.26",
-    "vue-resource": "^1.0.2",
-    "vueify": "^8.7.0"
+    "bootstrap-sass": "^3.4.3",
+	  "font-awesome": "^4.7.0",
+    "glob": "^8.0.3",
+    "gulp": "^4.0.2",
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
+	  "metismenu": "^3.0.7",
+	  "vue": "^3.2.37",
+    "vue-resource": "^1.5.3",
+    "vueify": "^9.4.1",
+    "laravel-elixir": "^6.0.0-18"
   }
 }
