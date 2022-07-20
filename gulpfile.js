@@ -1,6 +1,8 @@
 var elixir = require('laravel-elixir');
 var glob = require('glob');
 
+require('laravel-elixir-browserify-official');
+
 elixir.config.js.browserify.transformers.push({
     name: 'vueify',
     options: {}
