@@ -1,8 +1,6 @@
 # PHP CAS Server
 
-PHP CAS Server is a PHP implementation of CAS Server Protocol based on Laravel.
-
-[中文文档](https://github.com/leo108/php_cas_server/blob/master/readme_zh.md)
+PHP CAS Server is a PHP implementation of CAS Server Protocol based on Laravel. Forked from [https://github.com/leo108/php_cas_server/](https://github.com/leo108/php_cas_server/)
 
 ## Features
 
@@ -25,13 +23,7 @@ PHP CAS Server is a PHP implementation of CAS Server Protocol based on Laravel.
 3. `php artisan cache:clear` 
 3. `gulp` or `sudo gulp`
 
-### By release tarballs
-
-[Download Link](https://github.com/leo108/php_cas_server/releases)
-
 ## Configuration
-
-If you install by tarball, you have to copy `.env.example` to `.env`, and then run `php artisan key:generate`
 
 All settings are in `.env` file.
 
