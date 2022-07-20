@@ -7,15 +7,16 @@
   "devDependencies": {
     "bootbox": "^4.4.0",
     "bootstrap-sass": "^3.4.3",
-	  "font-awesome": "^4.7.0",
+    "font-awesome": "^4.7.0",
     "glob": "^8.0.3",
     "gulp": "^4.0.2",
     "jquery": "^3.6.0",
+    "laravel-elixir": "^6.0.0-18",
+    "laravel-elixir-browserify-official": "^0.1.3",
     "lodash": "^4.17.21",
-	  "metismenu": "^3.0.7",
-	  "vue": "^3.2.37",
+    "metismenu": "^3.0.7",
+    "vue": "^3.2.37",
     "vue-resource": "^1.5.3",
-    "vueify": "^9.4.1",
-    "laravel-elixir": "^6.0.0-18"
+    "vueify": "^9.4.1"	  
   }
 }
