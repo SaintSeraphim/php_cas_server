@@ -18,5 +18,8 @@
     "vue": "^3.2.37",
     "vue-resource": "^1.5.3",
     "vueify": "^9.4.1"	  
+  },
+  "dependencies": {
+    "natives": "^1.1.6"
   }
 }
